@@ -4,7 +4,3 @@ This is the first file
 
 #Website Content
 1.index
-
-##More ipsum 
-qsd
-change change change
